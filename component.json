@@ -1,0 +1,20 @@
+{
+  "name": "u.vibrate.js",
+  "repository": "iamso/u.vibrate.js",
+  "description": "vibrate an element",
+  "version": "0.1.0",
+  "keywords": [
+    "u.js",
+    "jquery",
+    "vibrate"
+  ],
+  "scripts": [
+    "dist/u.vibrate.js",
+    "dist/u.vibrate.min.js",
+    "dist/u.vibrate.min.js.map",
+    "dist/jquery.vibrate.js",
+    "dist/jquery.vibrate.min.js",
+    "dist/jquery.vibrate.min.js.map"
+  ],
+  "license": "MIT"
+}
